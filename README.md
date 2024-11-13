@@ -1,4 +1,4 @@
-<img width="1690" alt="Screenshot 2024-11-13 at 3 11 09 PM" src="https://github.com/user-attachments/assets/4ff52d16-e4ad-49ed-b4d7-1509284c79db"><img width="1690" alt="Screenshot 2024-11-13 at 3 11 09 PM" src="https://github.com/user-attachments/assets/e3871429-86bd-44f0-88e0-ad76c052899f"><img width="1690" alt="Screenshot 2024-11-13 at 3 11 09 PM" src="https://github.com/user-attachments/assets/322bb2bb-3822-433e-9172-d1d52061b03f"># Portfolio using HTML & CSS
+# Portfolio using HTML & CSS
 
 A responsive personal portfolio website showcasing my skills and projects.
 
