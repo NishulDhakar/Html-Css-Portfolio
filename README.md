@@ -1,4 +1,4 @@
-# Portfolio_2
+# Portfolio using Html & Css
 A responsive personal portfolio website showcasing my skills and projects.
 
 🛠️ Technologies Used
