@@ -14,8 +14,8 @@ A responsive personal portfolio website showcasing my skills and projects.
 - Easy to navigate
 
 ## 🔗 Project Links
-- 🚀 **Live Demo**: [View Portfolio](https://nishuldhakar.github.io/Portfolio_2/)
-- 💻 **GitHub Repository**: [Portfolio_2](https://github.com/nishuldhakar/Portfolio_2)
+- 🚀 **Live Demo**: [View Portfolio](https://nishuldhakar.github.io/Html-Css-Portfolio/)
+- 💻 **GitHub Repository**: [Html-Css-Portfolio](https://github.com/NishulDhakar/Html-Css-Portfolio)
 
 ## 📱 Screenshots
 [Add your website screenshots here]
