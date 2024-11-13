@@ -17,7 +17,7 @@ A responsive personal portfolio website showcasing my skills and projects.
 - 🚀 **Live Demo**: [View Portfolio](https://nishuldhakar.github.io/Html-Css-Portfolio/)
 - 💻 **GitHub Repository**: [Html-Css-Portfolio](https://github.com/NishulDhakar/Html-Css-Portfolio)
 
-## 📱 Screenshots
+## 📱 Screenshot
 <img width="1690" alt="Screenshot 2024-11-13 at 3 11 09 PM" src="https://github.com/user-attachments/assets/38bc94d0-53ac-47b3-a8d4-deaa254aaa82">
 
 
@@ -25,7 +25,6 @@ A responsive personal portfolio website showcasing my skills and projects.
 ## 🎯 Key Sections
 - Home
 - About
-- Skills
 - Projects
 - Contact
 
